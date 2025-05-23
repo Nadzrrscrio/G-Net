@@ -1,2 +1,0 @@
-# G-Net
-G-Net
